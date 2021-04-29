@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋
+
+I like code, [StarCraft](https://starcraft2.com/en-us/profile/1/1/724361), [Control](https://www.remedygames.com/games/control/), swing dancing (lindy hop and collegiate shag are my favorites), coffee, spicy food, and games with friends.
+
+<img src="https://github-readme-stats.vercel.app/api?username=NullVoxPopuli&&show_icons=true" alt="" role="presentation" />
