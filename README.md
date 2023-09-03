@@ -20,6 +20,7 @@ I like code, [StarCraft](https://starcraft2.com/en-us/profile/1/1/724361), [Cont
 
 <details><summary>How I manage my screen</summary>
 
+When working on a project, I'll have one workspace / vitual desktop that looks like this for each project
 ```
 ┌──────────────────────┬──────────────┬───────┐
 │                      │              │       │
@@ -30,6 +31,20 @@ I like code, [StarCraft](https://starcraft2.com/en-us/profile/1/1/724361), [Cont
 │                      │      |       ├───────┤
 └──────────────────────┴──────┴───────┴───────┘
 ```
+The smaller empty rectangles are terminals.
+
+And then for chat / discord / slack, it'll look something like this:
+```
+┌──────────────────────┬──────────────┬───────┐
+│                      │              │       │
+│                      │              ├───────┤
+│         Browser      │    Discord   │       │
+│                      │              ├───────┤
+│                      │              │       │
+│                      │              ├───────┤
+└──────────────────────┴──────────────┴───────┘
+```
+Where all the terminals on the right are temporary for trying stuff out.
 
 Floating window managers (MacOS, Windows) are suboptimal for me.
 MacOS, in particular, is really bad, and even all the paid tiling software doesn't do what https://i3wm.org/ does
